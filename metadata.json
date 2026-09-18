@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap - Creator Gig Marketplace",
+  "description": "A creator gig marketplace where young creators list services and clients book them with real-time request tracking, availability management, and dual-role workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
