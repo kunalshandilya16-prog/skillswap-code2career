@@ -27,10 +27,10 @@ AZIS-8JRGUP
 ## Links
 
 **Live Application:**  
-
+https://skillswap-cyan-three.vercel.app/
 
 **GitHub Repository:**  
-
+https://github.com/kunalshandilya16-prog/skillswap-code2career/tree/main
 
 **Demo Video:**  
 
